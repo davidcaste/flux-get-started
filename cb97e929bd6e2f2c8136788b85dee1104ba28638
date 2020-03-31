@@ -1,0 +1,1 @@
+{"jobID":"20cc28df-cc05-e26c-0150-f98860b834d3","spec":{"type":"policy","cause":{"Message":"","User":"David Castellanos \u003cdavid.castellanos@bnext.es\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
